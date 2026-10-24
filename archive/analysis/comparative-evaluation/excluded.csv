@@ -1,0 +1,82 @@
+path,reason
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-aodv-drain-1,ip_delay_ms: 38.828305907 != 38.828372093023255
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-aodv-drain-30,ip_delay_ms: 38.828305907 != 38.828372093023255
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-aodv-dynamic-cross,ip_delay_ms: 38.828305907 != 38.828372093023255
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-aodv-dynamic-single,ip_delay_ms: 73.3648397619 != 73.36476190476189
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-aodv-one-packet,ip_delay_ms: 1668.643248 != 1668.6399999999999
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-aodv-repeat,ip_delay_ms: 38.828305907 != 38.828372093023255
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-aodv-static-cross,ip_delay_ms: 169.623223667 != 169.62333333333333
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-aodv-static-single,ip_delay_ms: 713.108223 != 713.1075
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-drain-1,ip_delay_ms: 7.39268618182 != 7.392681818181817
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-drain-30,ip_delay_ms: 7.39268618182 != 7.392681818181817
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-dynamic-cross,ip_delay_ms: 7.39268618182 != 7.392681818181817
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-dynamic-single,ip_delay_ms: 7.25614072727 != 7.256136363636363
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-one-packet,ip_delay_ms: 29.314005 != 29.314
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-repeat,ip_delay_ms: 7.39268618182 != 7.392681818181817
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-run3,ip_delay_ms: 12.11178 != 12.111783333333333
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-static-cross,ip_delay_ms: 10.62378 != 10.623783333333334
+/home/vijayakumar/network-project/ns-3/results/validation-final/routesense-static-single,ip_delay_ms: 9.90511333333 != 9.905116666666666
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-aodv-dynamic-cross-run1,ip_delay_ms: 32.1899158182 != 32.19
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-aodv-dynamic-cross-run3,ip_delay_ms: 30.8886427727 != 30.888636363636362
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-aodv-dynamic-single-run3,ip_delay_ms: 26.9234257727 != 26.92340909090909
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-aodv-static-cross-run1,ip_delay_ms: 156.097723833 != 156.09766666666667
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-aodv-static-cross-run3,ip_delay_ms: 165.4265045 != 165.4265
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-aodv-static-single-run3,ip_delay_ms: 159.290059333 != 159.29
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-dynamic-cross-run1,ip_delay_ms: 7.2336241 != 7.2336
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-dynamic-cross-run3,ip_delay_ms: 9.66307590909 != 9.663068181818181
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-dynamic-single-run1,ip_delay_ms: 7.07507254545 != 7.075068181818182
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-dynamic-single-run3,ip_delay_ms: 7.80977709091 != 7.809772727272727
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-static-cross-run1,ip_delay_ms: 2531.285743 != 2531.2866666666664
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-static-cross-run3,ip_delay_ms: 16.258773 != 16.258766666666666
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-static-single-run1,ip_delay_ms: 9.70178 != 9.701783333333333
+/home/vijayakumar/network-project/ns-3/results/comparison-trials/routesense-static-single-run3,ip_delay_ms: 12.11178 != 12.111783333333333
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-1.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-2.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-3.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-4.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-5.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-cross-1.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-cross-2.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-cross-3.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-cross-4.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-cross-5.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-rng-1.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-rng-2.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-rng-3.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-rng-4.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-rng-5.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-alone-1.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-alone-2.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-alone-3.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-alone-4.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-alone-5.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-cross-1.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-cross-2.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-cross-3.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-cross-4.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/aodv-static-cross-5.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-1.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-2.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-3.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-4.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-5.txt,"incomplete legacy metrics; legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-cross-1.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-cross-2.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-cross-3.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-cross-4.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-cross-5.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-rng-1.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-rng-2.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-rng-3.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-rng-4.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-rng-5.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-alone-1.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-alone-2.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-alone-3.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-alone-4.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-alone-5.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-cross-1.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-cross-2.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-cross-3.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-cross-4.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"
+/home/vijayakumar/network-project/ns-3/results/trials/routesense-static-cross-5.txt,"legacy log lacks verified seed/run, duration and schema-2 application accounting"

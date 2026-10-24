@@ -1,0 +1,7 @@
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.221s
+
+OK
+Accepted 3 flow records; 6 scenario/flow/protocol groups; excluded 3 files/runs
+Accepted 3 flow records; 6 scenario/flow/protocol groups; excluded 1 files/runs

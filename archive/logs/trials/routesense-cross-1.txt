@@ -1,0 +1,54 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+========== RouteSense ==========
+Nodes: 12
+Routing: RouteSense weighted path selection
+Main flow: Node 0 -> Node 5
+Dynamic scenario: Enabled
+Cross traffic: Enabled
+[RouteSense] t=2.00s node=0 destination=10.1.1.6 nextHop=1 score=22.57
+[RouteSense] t=2.00s node=10 destination=10.1.1.5 nextHop=11 score=40.19
+[RouteSense] t=2.00s node=11 destination=10.1.1.2 nextHop=10 score=40.19
+[RouteSense] t=2.00s node=11 destination=10.1.1.5 nextHop=4 score=55.48
+[RouteSense] t=2.01s node=10 destination=10.1.1.2 nextHop=1 score=55.48
+Topology event at 12.00 s: Node 1 moved to (80.00, 160.00)
+[RouteSense] t=12.00s node=0 destination=10.1.1.6 nextHop=6 score=21.45
+[RouteSense] t=12.00s node=6 destination=10.1.1.6 nextHop=7 score=25.90
+[RouteSense] t=12.02s node=7 destination=10.1.1.6 nextHop=8 score=31.50
+[RouteSense] t=12.03s node=8 destination=10.1.1.6 nextHop=9 score=40.19
+[RouteSense] t=12.03s node=9 destination=10.1.1.6 nextHop=5 score=55.48
+Topology event at 22.00 s: Node 1 moved to (80.00, 0.00)
+[RouteSense] t=22.00s node=0 destination=10.1.1.6 nextHop=1 score=22.57
+[RouteSense] t=22.00s node=11 destination=10.1.1.2 nextHop=10 score=40.19
+
+========== Application Metrics ==========
+
+Flow 1: 10.1.1.1 -> 10.1.1.6
+  TX packets: 54
+  RX packets: 20
+  PDR: 37.04%
+  Packet loss ratio: 62.96%
+  Throughput: 6.23 Kbps
+  Average delay: 7.57 ms
+  Average jitter: 1.63 ms
+
+Flow 2: 10.1.1.11 -> 10.1.1.5
+  TX packets: 54
+  RX packets: 54
+  PDR: 100.00%
+  Packet loss ratio: 0.00%
+  Throughput: 16.83 Kbps
+  Average delay: 4.90 ms
+  Average jitter: 0.57 ms
+
+Flow 3: 10.1.1.12 -> 10.1.1.2
+  TX packets: 34
+  RX packets: 34
+  PDR: 100.00%
+  Packet loss ratio: 0.00%
+  Throughput: 10.60 Kbps
+  Average delay: 6.97 ms
+  Average jitter: 1.46 ms

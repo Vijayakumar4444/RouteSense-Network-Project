@@ -1,0 +1,40 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+========== AODV Baseline ==========
+Nodes: 12
+Routing protocol: AODV
+Main flow: Node 0 -> Node 5
+Dynamic scenario: Disabled
+Cross traffic: Enabled
+
+Application flow metrics
+
+Flow 1: 10.1.1.1 -> 10.1.1.6
+  TX packets: 54
+  RX packets: 50
+  PDR: 92.59%
+  Packet loss ratio: 7.41%
+  Throughput: 15.59 Kbps
+  Average delay: 10.06 ms
+  Average jitter: 1.84 ms
+
+Flow 2: 10.1.1.11 -> 10.1.1.5
+  TX packets: 54
+  RX packets: 54
+  PDR: 100.00%
+  Packet loss ratio: 0.00%
+  Throughput: 16.83 Kbps
+  Average delay: 57.05 ms
+  Average jitter: 45.40 ms
+
+Flow 3: 10.1.1.12 -> 10.1.1.2
+  TX packets: 54
+  RX packets: 3
+  PDR: 5.56%
+  Packet loss ratio: 94.44%
+  Throughput: 0.94 Kbps
+  Average delay: 295.87 ms
+  Average jitter: 343.22 ms
