@@ -1,0 +1,7 @@
+{
+  "results/graphs/jitter_ms_comparison.png": "51e28af2b9d675731131c18f22babf6962e41efc6594c261e9ab384ef90e1498",
+  "results/graphs/pdr_comparison.png": "97c03f4ff8423d89a3d9dcfe61dff11203b866d737728b65f44ce54754b9afd5",
+  "results/graphs/delay_ms_comparison.png": "5d2e7ead64a7be73c0c47cb550d484ea530e1bb553404063ef275a3c7f3dc9cd",
+  "results/graphs/loss_comparison.png": "de50019682cf96ec5e51a3e961e0d3cc80369b44cb06301276bf12371b50fda8",
+  "results/graphs/throughput_kbps_comparison.png": "4cdf51c62c1238940f754d4cd0829586d3bf6d252bb8951c221d017f3dfe58f4"
+}

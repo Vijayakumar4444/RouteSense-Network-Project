@@ -1,5 +1,37 @@
+# Generated simulation results
+results/
+*.pcap
+*.pcapng
+*.xml
+
+# Build artifacts
+build/
+cmake-cache/
+CMakeFiles/
+*.o
+*.a
+*.so
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated build files
 /build/
 /cmake-cache/
+/build-support/CMakeFiles/
+
+# Local build lock
 /.lock-ns3_linux_build
+
+# Temporary files
 *.tmp
 *.log

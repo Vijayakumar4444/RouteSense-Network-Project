@@ -1,0 +1,11 @@
+{
+  "src/animatorscene.cpp": "3ef32bee1a306e640635f9ce9fa3a17c6720f3f9ca06e4486903c1ce9eac7dc5",
+  "src/animatorview.cpp": "49ca4928e3e5edfbc7924cc20eef4bdc4484e4d2103aaa737d2c729043bc47c8",
+  "src/animatormode.h": "90a167b11b42d0960ad13adec28225f288e41ea33e7f3166208f58b8bdb175c8",
+  "src/animatormode.cpp": "6bed918f571500b9007c68cb1144ddbdf3ed2ea27ee122b45dab3bb3e9a97b0b",
+  "src/animnode.h": "b8423216a5d8a2aed97f63a0cdb739ff62b6086060932a71da2b42c69f4620dd",
+  "src/animnode.cpp": "8b872fba3234c5678083ca7064e296c997b464c90dcc7683838f64ae4c767ecb",
+  "src/animpacket.h": "91f8757cecadcf37f220e52e8c6e466aaab7026f027d55d634032b8a5d05a369",
+  "src/animpacket.cpp": "87fcae4760f51b66e9c1b755c78100ad97ac90348cc81eb4bfe250af4ad80ccc",
+  "src/main.cpp": "63769db7a5c2747b4f3d0f848583e0037c0a16293996489aee1a1c16314b0275"
+}
